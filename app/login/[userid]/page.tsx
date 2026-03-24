@@ -1,9 +1,8 @@
-// import React from 'react';
 
-// function page({params}) {
-//     return (
-//         <div>THis is info of: {params.userid}</div>
-//     )
-// }
+function page() {
+    return (
+        <div>THis is info of: </div>
+    )
+}
 
-// export default page;
+export default page;
